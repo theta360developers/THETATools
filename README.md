@@ -217,3 +217,5 @@ CodeLab for Paint.NETで作成しました。
 2013-12-21 Version 1.0 初版公開
 
 以上
+
+![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/Theta-Tools)
